@@ -12,4 +12,4 @@ A console-based game where the player tries to guess a randomly generated number
 - Conditionals
 - Game logic and state
 
-This project helped me understand how simple games are structured.
+This project helped me understand how simple games are structured (Day 12 ) .
